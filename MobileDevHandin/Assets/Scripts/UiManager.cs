@@ -13,6 +13,8 @@ public class UiManager : MonoBehaviour
     public Text livesText;
     public Text moneyText;
     public Text wavesText;
+    //gamover
+    public GameObject gameOverObj;
 
     //when the program starts the UI is updated for the first time
     private void Awake()
@@ -28,7 +30,7 @@ public class UiManager : MonoBehaviour
         livesText.text = "Lives: " + lives.ToString();
         if (lives <= 0)
         {
-            Debug.Log("gameover");
+            gameOver();
         }
     }
     //changes the money amount
@@ -45,6 +47,12 @@ public class UiManager : MonoBehaviour
 
     void gameOver()
     {
-
+        gameOverObj.SetActive(true);
+    }
+    
+    public void Restart()
+    {
+        //reloads the scene
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 }

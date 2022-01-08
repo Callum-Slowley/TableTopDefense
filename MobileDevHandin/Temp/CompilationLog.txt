@@ -1,0 +1,36 @@
+# Starting compiling UnityEngine.TestRunner.dll
+D:\unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-48f27c2aaa4dc0b4eab0d1def53449e7
+# Starting compiling UnityEngine.UI.dll
+D:\unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-2889ab4d856b1b247a724f9854d40f89
+# Starting compiling Unity.ProBuilder.KdTree.dll
+D:\unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-75a265a7e86483a408104bdb1214632e
+# Starting compiling Unity.ProBuilder.Stl.dll
+D:\unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-e7295b9bb4087e04382bd25f3a82927d
+# Starting compiling Unity.Timeline.dll
+D:\unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-608a93d0931dc864d90ab60246e2feea
+# Starting compiling Unity.TextMeshPro.dll
+D:\unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-a37a64205392df9409700acf15660674
+# Starting compiling Unity.ProBuilder.Csg.dll
+D:\unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-45a3cd3814f4dd846bbaac3234daeef4
+# Starting compiling Unity.ProGrids.dll
+D:\unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-da902cea838210f4586b47e2276ca4f3
+# Starting compiling Unity.ProBuilder.Poly2Tri.dll
+D:\unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-a6e30b7f68302a74aa2133c849b241c8
+# Starting compiling UnityEngine.SpatialTracking.dll
+D:\unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-5d7880d8e7902f1408ac13d5ef4552e4
+# Starting compiling Unity.Subsystem.Registration.dll
+D:\unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-0f11abddc54e6d74fb2335803076daab
+# Starting compiling Unity.XR.Management.dll
+D:\unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-69dd40d940aa2dd4b9a7890a34f22484
+# Starting compiling Unity.ProBuilder.dll
+D:\unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-6cdd14162a3a6ad4f8cb04e2d9d33cbc
+# Starting compiling Unity.XR.ARSubsystems.dll
+D:\unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-e8bc23ce228f2b5499d4d2f13fbb5741
+# Starting compiling UnityEngine.XR.LegacyInputHelpers.dll
+D:\unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-16dae3cdfd5bd874996cdfdd89299cf2
+# Starting compiling Unity.XR.ARFoundation.dll
+D:\unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-986f07c9d9e156a40a7094edc4ecf63d
+# Starting compiling Unity.XR.ARCore.dll
+D:\unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-cece4b251d31a43458b4a44d6da2227a
+# Starting compiling Assembly-CSharp.dll
+D:\unity\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-e8a50181c5cf5264f819d74df66f8519
